@@ -1,2 +1,2 @@
 # default
-Django docker App
+Django docker App 2
